@@ -1,8 +1,8 @@
 # 268. Missing Number
 
-- Problem: [Missing Number](https://leetcode.com/problems/missing-number/?envType=problem-list-v2&envId=math)
+- Problem: [Missing Number](https://leetcode.com/problems/missing-number/description/?envType=problem-list-v2&envId=math)
 - Difficulty: Easy
-- Latest Solution: `solution6.cpp`
+- Latest Solution: `solution7.cpp`
 
 ## Solutions
 
@@ -11,9 +11,10 @@
 - [solution3.cpp](./solution3.cpp) - cpp
 - [solution4.cpp](./solution4.cpp) - cpp
 - [solution5.cpp](./solution5.cpp) - cpp
-- [solution6.cpp](./solution6.cpp) - C++ - 2026-04-13T13:32:42.004Z (latest)
+- [solution6.cpp](./solution6.cpp) - cpp
+- [solution7.cpp](./solution7.cpp) - C++ - 2026-04-13T13:33:52.892Z (latest)
 
 ## Metadata
 
-- Last Accepted At: 2026-04-13T13:32:42.004Z
-- Slug: `missing-number`
+- Last Accepted At: 2026-04-13T13:33:52.892Z
+- Slug: `description`
